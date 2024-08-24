@@ -9,15 +9,15 @@ Artemis Financial aimed to establish a secure online presence, crucial for a fin
 
 Strengths in Identifying Security Vulnerabilities
 
-I effectively integrated security from the outset, understanding its critical importance in protecting sensitive data and complying with legal requirements. Secure coding practices were prioritized from the first line of code, reinforcing the company's overall resilience and user trust.
+I worked to effectively integrate security from the outset,by understanding its critical importance in protecting sensitive data and complying with legal requirements. Secure coding practices were prioritized from the first line of code, reinforcing the company's overall resilience and user trust. This allows the client to feel secure in their choice security protocols for the program.
 
 Challenges and Lessons from the Vulnerability Assessment
 
-While familiar with static test results, conducting these tests myself provided new insights. I also recognized the importance of dynamic testing for a more thorough security evaluation.
+Conducting the vulnerability assessment was particularly enlightening. Although I was unfamiliar with interpreting static test results, performing the tests myself was a new and valuable experience. I recognized the need to incorporate dynamic testing as well, which would provide a more comprehensive view of potential security flaws.
 
 Enhancing Security Layers
 
-My approach focused on never trusting input—sanitizing all user and database inputs to prevent security breaches. Moving forward, I’ll continue using this strategy and incorporate additional testing to identify and mitigate risks.
+To enhance security, I adhered to the principle of "never trust input." Whether dealing with user strings or database entries, it’s crucial to sanitize all input to prevent unintended behaviors or security breaches. Moving forward, I plan to continue employing this approach and integrating additional testing strategies to identify and mitigate vulnerabilities effectively.
 
 Tools and Resources for Future Use
 
@@ -25,4 +25,4 @@ Maven proved invaluable in managing dependencies and streamlining development, a
 
 Showcasing to Future Employers
 
-The development of the Spring API with checksum generation is a standout example of my skills in security, Spring, and general coding, making it ideal to present to potential employers.
+The most comprehensive example of my work from this assignment is the development of the Spring API that involved generating a checksum. This task demonstrated my proficiency in Spring, security practices, and overall coding skills, making it an ideal project to showcase to future employers.
